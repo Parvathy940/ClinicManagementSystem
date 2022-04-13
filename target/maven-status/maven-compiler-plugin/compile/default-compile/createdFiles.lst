@@ -1,8 +1,0 @@
-com\project\clinic\repository\UserRepository.class
-com\project\clinic\ClinicManagementSystem1Application.class
-com\project\clinic\service\UserService.class
-com\project\clinic\entity\Patient.class
-com\project\clinic\service\PatientService.class
-com\project\clinic\controller\MedicinePatientController.class
-com\project\clinic\repository\PatientRepository.class
-com\project\clinic\entity\User.class
